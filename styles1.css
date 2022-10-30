@@ -1,0 +1,17 @@
+i.h1 {
+    color: #8f5f00;
+    font-size: 50px;
+    font-family: fantasy;
+}
+th.tit {
+    color: #4b9af8;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+td.vl {
+    color: #ff0000;
+    background-image: url(корона.jpg);
+}
+td.di {
+    color: #4b9af8;
+    background-image: url(керамбит.jpg);
+}
